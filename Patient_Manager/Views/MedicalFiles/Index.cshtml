@@ -1,0 +1,47 @@
+@model IEnumerable<Patient_Manager.Models.Medicalfile>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Filepath)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Uploadedat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Checkup)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Filepath)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Uploadedat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Checkup.Checkupid)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Fileid">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Fileid">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Fileid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,491 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\irepository\\repositories\\medicalfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\irepository\\repositories\\medicalfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\irepository\\imedicalfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\irepository\\imedicalfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\irepository\\repositories\\prescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\irepository\\repositories\\prescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\irepository\\iprescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\irepository\\iprescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\irepository\\repositories\\medicalrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\irepository\\repositories\\medicalrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\irepository\\imedicalrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\irepository\\imedicalrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\irepository\\repositories\\checkuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\irepository\\repositories\\checkuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\irepository\\icheckuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\irepository\\icheckuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\irepository\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\irepository\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\irepository\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\irepository\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\migrations\\20250206231809_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\migrations\\20250206231809_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\patient_manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\patient_manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\models\\medicalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\models\\medicalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\models\\checkup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\models\\checkup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|c:\\users\\salum\\documents\\adpc\\patient_manager\\patient_manager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272A74FA-1981-4AF9-9B24-A1F35F0401E6}|Patient_Manager\\Patient_Manager.csproj|solutionrelative:patient_manager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedicalFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\Repositories\\MedicalFileRepository.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\IRepository\\Repositories\\MedicalFileRepository.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\Repositories\\MedicalFileRepository.cs",
+              "RelativeToolTip": "Patient_Manager\\IRepository\\Repositories\\MedicalFileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:42:40.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMedicalFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\IMedicalFileRepository.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\IRepository\\IMedicalFileRepository.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\IMedicalFileRepository.cs",
+              "RelativeToolTip": "Patient_Manager\\IRepository\\IMedicalFileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:41:57.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrescriptionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\IPrescriptionRepository.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\IRepository\\IPrescriptionRepository.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\IPrescriptionRepository.cs",
+              "RelativeToolTip": "Patient_Manager\\IRepository\\IPrescriptionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:34:35.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicalRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\Repositories\\MedicalRecordRepository.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\IRepository\\Repositories\\MedicalRecordRepository.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\Repositories\\MedicalRecordRepository.cs",
+              "RelativeToolTip": "Patient_Manager\\IRepository\\Repositories\\MedicalRecordRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:29:00.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMedicalRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\IMedicalRecordRepository.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\IRepository\\IMedicalRecordRepository.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\IMedicalRecordRepository.cs",
+              "RelativeToolTip": "Patient_Manager\\IRepository\\IMedicalRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:27:42.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICheckupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\ICheckupRepository.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\IRepository\\ICheckupRepository.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\ICheckupRepository.cs",
+              "RelativeToolTip": "Patient_Manager\\IRepository\\ICheckupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:17:48.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Program.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\Program.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Program.cs",
+              "RelativeToolTip": "Patient_Manager\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:39:25.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrescriptionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\Repositories\\PrescriptionRepository.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\IRepository\\Repositories\\PrescriptionRepository.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\Repositories\\PrescriptionRepository.cs",
+              "RelativeToolTip": "Patient_Manager\\IRepository\\Repositories\\PrescriptionRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:34:52.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Patient_Manager\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:16:00.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\Repositories\\CheckupRepository.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\IRepository\\Repositories\\CheckupRepository.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\Repositories\\CheckupRepository.cs",
+              "RelativeToolTip": "Patient_Manager\\IRepository\\Repositories\\CheckupRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:18:20.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Patient_Manager\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Patient_Manager\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T23:56:42.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Patient_Manager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Patient_Manager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T23:56:39.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Patient_Manager\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwFgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:49:52.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Patient_Manager\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:33:44.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Patient_Manager\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Patient_Manager\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T23:56:46.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\IRepository\\IPatientRepository.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\IPatientRepository.cs",
+              "RelativeToolTip": "Patient_Manager\\IRepository\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:42:36.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\IRepository\\Repositories\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\IRepository\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "Patient_Manager\\IRepository\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:43:32.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Patient_Manager\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Patient_Manager\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T23:56:49.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Patient_Manager\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Patient_Manager\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T23:56:50.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250206231809_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Migrations\\20250206231809_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\Migrations\\20250206231809_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Migrations\\20250206231809_InitialCreate.cs",
+              "RelativeToolTip": "Patient_Manager\\Migrations\\20250206231809_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:18:09.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Patient_Manager\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:29:01.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Models\\Prescription.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\Models\\Prescription.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Models\\Prescription.cs",
+              "RelativeToolTip": "Patient_Manager\\Models\\Prescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:29:06.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Medicalfile.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Models\\Medicalfile.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\Models\\Medicalfile.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Models\\Medicalfile.cs",
+              "RelativeToolTip": "Patient_Manager\\Models\\Medicalfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:29:03.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Medicalrecord.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Models\\Medicalrecord.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\Models\\Medicalrecord.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Models\\Medicalrecord.cs",
+              "RelativeToolTip": "Patient_Manager\\Models\\Medicalrecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:29:04.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Models\\Patient.cs",
+              "RelativeToolTip": "Patient_Manager\\Models\\Patient.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:28:13.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Checkup.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Models\\Checkup.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\Models\\Checkup.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Models\\Checkup.cs",
+              "RelativeToolTip": "Patient_Manager\\Models\\Checkup.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:27:51.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\appsettings.json",
+              "RelativeDocumentMoniker": "Patient_Manager\\appsettings.json",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\appsettings.json",
+              "RelativeToolTip": "Patient_Manager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T21:37:23.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Patient_Manager.csproj",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Patient_Manager.csproj",
+              "RelativeDocumentMoniker": "Patient_Manager\\Patient_Manager.csproj",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Patient_Manager.csproj",
+              "RelativeToolTip": "Patient_Manager\\Patient_Manager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-06T22:58:34.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Patient_Manager\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\salum\\Documents\\ADPC\\Patient_Manager\\Patient_Manager\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Patient_Manager\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:27:42.392Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
